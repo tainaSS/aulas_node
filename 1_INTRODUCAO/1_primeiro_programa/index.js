@@ -1,0 +1,1 @@
+console.log("Eu não aguento mais vir para a escola, acaba pelo amor de Deus.")
